@@ -12,4 +12,4 @@ my programming experiences and my improvement in various aspects.
 
 ### 🧑🏻‍🎓 Academic process
 I started in Penha, at the Marisa De Mello school, in a full-time program. I made many friends there and studied for nine years.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Imagem da escola](https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400)
