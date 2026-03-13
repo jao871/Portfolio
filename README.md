@@ -16,3 +16,12 @@ I started in Penha, at the Marisa De Mello school, in a full-time program. I mad
 <p align="center">
   <img src="https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400" alt="Descrição da imagem">
 </p>
+
+After all those years of learning in Penha, I chose to try to get into ETEC, because I knew it would bring me great benefits.
+
+_____________________________________________________________________________________________________
+
+-🏅1st place in Systems Development at ETEC Tereza Nunes
+- 🏅9th  place in Systems Development at ETEC Cidade Tiradentes
+
+______________________________________________________________________________________________________
