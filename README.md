@@ -14,7 +14,7 @@ my programming experiences and my improvement in various aspects.
 I started in Penha, at the Marisa De Mello school, in a full-time program. I made many friends there and studied for nine years.
 
 <p align="center">
-  <img src="https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400" alt="Descrição da imagem">
+  <img src="https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400" alt="Foto da escola">
 </p>
 
 After all those years of learning in Penha, I chose to try to get into ETEC, because I knew it would bring me great benefits.
@@ -25,3 +25,10 @@ ________________________________________________________________________________
 - 🏅9th  place in Systems Development at ETEC Cidade Tiradentes
 
 ______________________________________________________________________________________________________
+
+So I had two options: either enroll at ETEC Tereza Nunes or at the one in Cidade Tiradentes. But since
+it was closer to my house, I decided to choose the ETEC in Cidade Tiradentes
+
+<p aling="center">
+  <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg" alt="Foto da ETEC>
+</p>
