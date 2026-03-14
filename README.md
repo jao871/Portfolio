@@ -30,5 +30,5 @@ So I had two options: either enroll at ETEC Tereza Nunes or at the one in Cidade
 it was closer to my house, I decided to choose the ETEC in Cidade Tiradentes
 
 <p aling="center">
-  <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg" alt="Foto da ETEC>
+  <img src="https://lh3.googleusercontent.com/p/AF1QipN_saEvZgHUkVqGgT9pGyvozpD_4Yr3HYe_TP7v=s1360-w1360-h1020-rw" alt="Foto da ETEC>
 </p>
