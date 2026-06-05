@@ -11,17 +11,6 @@ my programming experiences and my improvement in various aspects.
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 _______________________________________________________________________________________________________
 
-### 🧑🏻‍🎓 Academic process
-I started in Penha, at the Marisa De Mello school, in a full-time program. I made many friends there and studied for nine years.
-
-<p align="center">
-  <img src="https://eemarisademello.wordpress.com/wp-content/uploads/2016/07/11045412_926636664055820_6605432025704559374_n-21.jpg?w=400" alt="Foto da escola">
-</p>
-
-After all those years of learning in Penha, I chose to try to get into ETEC, because I knew it would bring me great benefits.
-
-_____________________________________________________________________________________________________
-
 -🏅1st place in Systems Development at ETEC Tereza Nunes
 - 🏅9th  place in Systems Development at ETEC Cidade Tiradentes
 
