@@ -2,7 +2,7 @@
 Here I intend to show who I am in addition to showing
 my programming experiences and my improvement in various aspects.
 
-### 💻 programming languages
+## 💻 programming languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,4 +37,14 @@ There, I made lots of friends and worked with amazing teachers who taught me so 
 
 ____________________________________________________________________________________________________
 
-### 🎓 My Firts Projects
+## 🎓 My Projects
+
+Here are several of my projects, mostly done for school, and I wanted to highlight the main ones.
+
+### VIBE TRACK 🎶
+
+<p align="center">
+  <img src="" alt="Tela incial"  width="400">
+</p>
+
+
