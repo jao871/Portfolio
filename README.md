@@ -37,14 +37,4 @@ There, I made lots of friends and worked with amazing teachers who taught me so 
 
 ____________________________________________________________________________________________________
 
-## 🎓 My Projects
-
-Here are several of my projects, mostly done for school, and I wanted to highlight the main ones.
-
-### VIBE TRACK 🎶
-
-<p align="center">
-  <img src="" alt="Tela incial"  width="400">
-</p>
-
 
